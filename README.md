@@ -4,7 +4,7 @@ Tool to get ZTF CCD images for both raw and science images
 
 Option to get CCD science image with global CCD flat-field
 
-WARNING
+# WARNING:
 - Use ztfquery
 - Require local ZTF data repository with same structure than in ZTF data products rerpository
 - Create a new directory /ccdflat/ in your /year/date/ local ZTF data repository
